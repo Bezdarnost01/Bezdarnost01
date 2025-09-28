@@ -4,7 +4,7 @@
 
 ## 🧰 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white" />
