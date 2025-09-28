@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python & Rust developer from Russian Federation 🇷🇺</h3>
 
-## 🧰 Tech Stack
+<h2 align="center"> 🧰 Tech Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
