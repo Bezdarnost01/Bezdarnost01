@@ -12,4 +12,9 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-linter-D7FF64?logo=ruff&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
