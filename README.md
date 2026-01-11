@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" />
+  <im src ="https://img.shields.io/badge/Docker-1d63ed?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white" />
