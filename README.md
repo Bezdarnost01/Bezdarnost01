@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm <a href="https://github.com/Bezdarnost01" target="_blank">Timofey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python & Rust developer from Russian Federation 🇷🇺</h3>
+<h3 align="center">Python & C++ developer from Russian Federation 🇷🇺</h3>
 
 
 
@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
