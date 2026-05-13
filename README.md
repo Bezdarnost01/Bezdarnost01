@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm <a href="https://github.com/Bezdarnost01" target="_blank">Timofey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python & C++ developer from Russian Federation 🇷🇺</h3>
+<h3 align="center">Python & Rust developer from Russian Federation 🇷🇺</h3>
 
 
 
