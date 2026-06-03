@@ -7,8 +7,8 @@
 <h2 align="center"> 🧰 Tech Stack </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
